@@ -2,6 +2,8 @@
 
 # Overview: 
 
+The following analysis consists of prediciting credit risk by applying six different algorithims and models from a credit card dataset from LendingClub. 
+
 # Results:
 
 ## Naive Random Oversampling
@@ -59,6 +61,4 @@ The precision is at 99%
 
 # Summary:
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
-The following models all discu
+The following models all display a low accuracy score for LendingClub's credit card dataset. The test that resulted with the most accurate numbers would be the Balanced Random Forest Classifier and the Easy Ensemble AdaBoost Classifier with an accuracy score of 80%. In this stage I would reccomend looking into further models or algorithms that could possibly provide a clearer accuracy score for Lendingclub.
