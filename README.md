@@ -4,6 +4,15 @@
 
 The following analysis consists of prediciting credit risk by applying six different algorithims and models from a credit card dataset from LendingClub. 
 
+Supervised Machine Learning
+
+1. Naive Random Oversampling.
+2. SMOTE Oversampling.
+3. Cluster Centroid Undersampling.
+4. SMOTEENN Sampling.
+5. Balanced Random Forest Classifying.
+6. Easy Ensemble Classifying.
+
 # Results:
 
 ## Naive Random Oversampling
@@ -23,7 +32,7 @@ The following analysis consists of prediciting credit risk by applying six diffe
  - The low risk is at 100% with high risk at 1%
  - The precision is at 99%
 
-##  Cluster Centroids Undersampling
+##  (SMOTEENN) Cluster Centroids Undersampling
 
 ![Screenshot (107)](https://user-images.githubusercontent.com/81484054/129492012-8850518f-1566-4d1d-b7f0-7fc2f36adc9a.png)
 ![Screenshot (106)](https://user-images.githubusercontent.com/81484054/129491986-1a361d08-6717-4202-9e1b-65d4ee0cadc0.png)
